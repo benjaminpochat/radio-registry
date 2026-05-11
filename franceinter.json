@@ -1,8 +1,8 @@
 {
   "audio": {
-    "hasPlaylist": false,
+    "hasPlaylist": true,
     "isRealtime": true,
-    "streamUrl": "https://stream.radiofrance.fr/franceinter/franceinter.m3u8"
+    "streamUrl": "https://stream.radiofrance.fr/franceinter/franceinter.m3u8?id=radiofranceBose"
   },
   "name": "FRANCE INTER",
   "streamType": "liveRadio"
